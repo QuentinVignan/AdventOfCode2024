@@ -1,6 +1,4 @@
 
-
-
 def read_file(path):
     lines = []
     with open(path, 'r') as file:
